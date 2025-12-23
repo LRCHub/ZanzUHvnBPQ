@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "KOKYAKU満足度1位",
+  "base_artist": "Yabai T-Shirts Yasan",
+  "createdAt": "2025-12-23T09:37:46.902284Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "KOKYAKU満足度1位",
+      "artist": "ヤバイTシャツ屋さん",
+      "has_synced": false,
+      "path": "select/01_KOKYAKU満足度1位_ヤバイTシャツ屋さん.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "KOKYAKU満足度1位",
+      "artist": "ヤバイTシャツ屋さん",
+      "has_synced": false,
+      "path": "select/pl_01_KOKYAKU満足度1位_ヤバイTシャツ屋さん.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "KOKYAKU満足度1位",
+      "artist": "ヤバイTシャツ屋さん",
+      "has_synced": false,
+      "path": "select/pl_02_KOKYAKU満足度1位_ヤバイTシャツ屋さん.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "KOKYAKU満足度1位",
+      "artist": "ヤバイTシャツ屋さん",
+      "has_synced": false,
+      "path": "select/pl_03_KOKYAKU満足度1位_ヤバイTシャツ屋さん.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "KOKYAKU満足度1位(岡崎体育 remix)",
+      "artist": "ヤバイTシャツ屋さん",
+      "has_synced": false,
+      "path": "select/pl_04_KOKYAKU満足度1位(岡崎体育_remix)_ヤバイTシャツ屋さん.txt"
+    }
+  ]
+}
